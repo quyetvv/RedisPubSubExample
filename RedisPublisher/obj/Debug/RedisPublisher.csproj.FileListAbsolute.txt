@@ -1,0 +1,8 @@
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisPublisher\bin\Debug\RedisPublisher.exe.config
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisPublisher\bin\Debug\RedisPublisher.exe
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisPublisher\bin\Debug\RedisPublisher.pdb
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisPublisher\bin\Debug\StackExchange.Redis.dll
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisPublisher\bin\Debug\StackExchange.Redis.xml
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisPublisher\obj\Debug\RedisPublisher.csprojResolveAssemblyReference.cache
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisPublisher\obj\Debug\RedisPublisher.exe
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisPublisher\obj\Debug\RedisPublisher.pdb

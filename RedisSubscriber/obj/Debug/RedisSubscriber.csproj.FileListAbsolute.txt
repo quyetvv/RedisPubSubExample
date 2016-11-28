@@ -1,0 +1,8 @@
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisSubscriber\bin\Debug\RedisSubscriber.exe.config
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisSubscriber\bin\Debug\RedisSubscriber.exe
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisSubscriber\bin\Debug\RedisSubscriber.pdb
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisSubscriber\bin\Debug\StackExchange.Redis.dll
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisSubscriber\bin\Debug\StackExchange.Redis.xml
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisSubscriber\obj\Debug\RedisSubscriber.csprojResolveAssemblyReference.cache
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisSubscriber\obj\Debug\RedisSubscriber.exe
+D:\MyDocuments\Codes\Redis\RedisPublisher\RedisSubscriber\obj\Debug\RedisSubscriber.pdb
